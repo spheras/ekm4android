@@ -1,0 +1,5 @@
+https://gist.github.com/matzipan/d4e78f3e5ea95890f403871b50d63b76
+
+
+Enable debug messages
+Set the following environment variable G_MESSAGES_DEBUG=all. This will allow you to see messages you print with debug in Vala.

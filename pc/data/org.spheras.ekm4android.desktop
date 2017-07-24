@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=EKM4Android
+Comment=Keyboard & Mouse for Android
+Exec=org.spheras.ekm4android
+Icon=org.spheras.ekm4android
+Keywords=android;km;keyboard;mouse
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Utility;
